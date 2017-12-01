@@ -1,4 +1,4 @@
 # web-230
 Introduction to JavaScript
-#contributors
+# contributors
 Professor Krasso - Bellevue University Robert Sharp - Bellevue University
