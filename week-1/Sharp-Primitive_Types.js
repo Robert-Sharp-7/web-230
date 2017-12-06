@@ -22,7 +22,13 @@ var state="England";
 var zipCode="01801";
 
 // output 
-console.log('\n'); 
+console.log(firstName);
+console.log(lastName);
+console.log(age);
+console.log(street);
+console.log(city);
+console.log(state);
+console.log(zipCode);
 
 
 // end program
